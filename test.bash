@@ -1,4 +1,4 @@
-#!/bin/bash　
+#!/bin/bash
 # SPDX-FileCopyrightText: 2023 Tatsuki Yanagisawa
 # SPDX-License-Identifier: BSD-3-Clause
 
