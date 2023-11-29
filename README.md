@@ -1,5 +1,5 @@
 # robosys2023
-ロボットシステム学の練習リポジトリ
+ロボットシステム学 課題1
 
 # plusコマンド
 ![test](https://github.com/gumi-4089/robosys2023/actions/workflows/test.yml/badge.svg)
