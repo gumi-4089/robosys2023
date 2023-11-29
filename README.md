@@ -10,9 +10,12 @@
   * テスト済み: 3.7〜3.10
 
 ## テスト環境
-* Ubuntu20.04 Windows11
+* Ubuntu20.04
 
-
+##インストール方法
+```
+git clone https://github.com/gumi-4089/robosys2023.git
+```
 
 ##実行方法
 
@@ -28,6 +31,6 @@ seq 10 |./plus
 * このパッケージは，Ryuichi Ueda由来のコード（© 2023 Ryuichi Ueda）を利用しています．
 
 * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
-      * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+      * [ryuichiueda/my_slides/robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
 * © 2023 Tatsuki Yanagisawa
