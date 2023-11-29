@@ -3,6 +3,7 @@
 
 # plusコマンド
 ![test](https://github.com/gumi-4089/robosys2023/actions/workflows/test.yml/badge.svg)
+
 標準入力から読み込んだ数字を足す。
 
 ## 必要なソフトウェア
@@ -12,19 +13,19 @@
 ## テスト環境
 * Ubuntu20.04
 
-##インストール方法
+## インストール方法
 ```
 git clone https://github.com/gumi-4089/robosys2023.git
 ```
 
-##実行方法
+## 実行方法
 
 ```
 cd robosys2023
 seq 10 |./plus
 ```
 
-##ライセンスと著作権
+## ライセンスと著作権
 
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 
